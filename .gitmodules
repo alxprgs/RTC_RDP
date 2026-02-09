@@ -1,0 +1,15 @@
+[submodule "RTC_RDP_Robot"]
+	path = RTC_RDP_Robot
+	url = https://github.com/alxprgs/RTC_RDP_Robot
+[submodule "RTC_RDP_Server"]
+	path = RTC_RDP_Server
+	url = https://github.com/alxprgs/RTC_RDP_Server
+[submodule "RTC_RDP_LIB_L298N"]
+	path = RTC_RDP_LIB_L298N
+	url = https://github.com/alxprgs/RTC_RDP_LIB_L298N
+[submodule "RTC_RDP_Cam"]
+	path = RTC_RDP_Cam
+	url = https://github.com/alxprgs/RTC_RDP_Cam
+[submodule "RTC_RDP_Joy"]
+	path = RTC_RDP_Joy
+	url = https://github.com/alxprgs/RTC_RDP_Joy
